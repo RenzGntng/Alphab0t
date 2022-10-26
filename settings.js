@@ -3,12 +3,12 @@ const chalk = require('chalk')
 
 // Website Api
 global.APIs = {
-	alfa : 'https://api.zeeoneofc.xyz', //apabila link api eror, segera laporkan le owner
+	alfa : 'https://saipulanuar.ga', //apabila link api eror, segera laporkan le owner
 }
 
 // Free apikey
 global.APIKeys = {
-	'https://api.zeeoneofc.xyz' : 'your key', // login https://api.zeeoneofc.xyz to get apikey || https://api-alphabot.herokuapp.com
+	'https://saipulanuar.ga' : '925n2c494', // login https://api.zeeoneofc.xyz to get apikey || https://api-alphabot.herokuapp.com
 }
 
 global.self_mode = false
@@ -21,8 +21,8 @@ global.auto_welcome_msg = true
 global.auto_leave_msg = true
 global.prefix = "."
 global.language = "ind"
-global.ownerNumberr = "62887435047326"
-global.ownerbot = ['62887435047326@s.whatsapp.net','918156874290@s.whatsapp.net'] // .owner
+global.ownerNumberr = "+62 877-7840-5247"
+global.ownerbot = ['@s.whatsapp.net','918156874290@s.whatsapp.net'] // .owner
 global.ownername = "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×"
 global.botname = "Alphabot"
 global.thumb = "thumbnail_1.jpg"
